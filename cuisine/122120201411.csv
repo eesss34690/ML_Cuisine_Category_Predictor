@@ -1,2 +1,0 @@
-round_epochs,loss,sparse_categorical_accuracy,val_loss,val_sparse_categorical_accuracy,batch_size,dropout,epochs,first_neuron,last_activation,loss,lr,optimizer,weight_regulizer
-40,2.7665648460388184,0.34809523820877075,2.786128044128418,0.3199999928474426,2,0,40,256,softmax,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.adadelta.Adadelta'>,None
