@@ -1,0 +1,9 @@
+round_epochs,loss,sparse_categorical_accuracy,val_loss,val_sparse_categorical_accuracy,batch_size,epochs,first_neuron,last_activation,loss,lr,optimizer,weight_regulizer
+40,2.7173757553100586,0.3095380961894989,2.7116291522979736,0.32017913460731506,2,40,256,softmax,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.2107949256896973,0.7919616103172302,2.3378260135650635,0.677861750125885,2,40,256,softmax,categorical_crossentropy,0.1,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.409985303878784,0.6399520039558411,2.4415395259857178,0.6045340299606323,2,40,256,hard_sigmoid,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.2060298919677734,0.8349130153656006,2.379289150238037,0.6773020029067993,2,40,256,hard_sigmoid,categorical_crossentropy,0.1,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.7168195247650146,0.3072585463523865,2.71061372756958,0.31821998953819275,2,40,400,softmax,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.213444232940674,0.8128374218940735,2.3426084518432617,0.6910159587860107,2,40,400,softmax,categorical_crossentropy,0.1,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.374401807785034,0.6766646504402161,2.41337513923645,0.6277638077735901,2,40,400,hard_sigmoid,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.2061667442321777,0.8383923172950745,2.3829267024993896,0.6733837127685547,2,40,400,hard_sigmoid,categorical_crossentropy,0.1,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
