@@ -1,0 +1,3 @@
+round_epochs,loss,sparse_categorical_accuracy,val_loss,val_sparse_categorical_accuracy,batch_size,epochs,first_neuron,last_activation,loss,lr,optimizer,weight_regulizer
+40,2.159606456756592,0.8838086128234863,2.2969229221343994,0.7486006617546082,32,40,1024,hard_sigmoid,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+40,2.2492918968200684,0.7816013097763062,2.3210999965667725,0.6988645195960999,32,40,1024,hard_sigmoid,categorical_crossentropy,0.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
